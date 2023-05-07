@@ -1,4 +1,4 @@
-#Machine Predictive Maintenance Classification
+# Machine Predictive Maintenance Classification
 
 ### About Dataset
 ##Machine Predictive Maintenance Classification Dataset
@@ -6,7 +6,7 @@ Since real predictive maintenance datasets are generally difficult to obtain and
 
 The dataset consists of 10 000 data points stored as rows with 14 features in columns
 
-UID: unique identifier ranging from 1 to 10000
+UID: unique identifier ranging from 1 to 10000 <br>
 productID: consisting of a letter L, M, or H for low (50% of all products), medium (30%), and high (20%) as product quality variants and a variant-specific serial number
 air temperature [K]: generated using a random walk process later normalized to a standard deviation of 2 K around 300 K
 process temperature [K]: generated using a random walk process normalized to a standard deviation of 1 K, added to the air temperature plus 10 K.
