@@ -1,7 +1,7 @@
 # Machine Predictive Maintenance Classification
 
 ### About Dataset<br><br>
-##Machine Predictive Maintenance Classification Dataset<br>
+## Machine Predictive Maintenance Classification Dataset<br>
 Since real predictive maintenance datasets are generally difficult to obtain and in particular difficult to publish, we present and provide a synthetic dataset that reflects real predictive maintenance encountered in the industry to the best of our knowledge.<br><br>
 
 The dataset consists of 10 000 data points stored as rows with 14 features in columns<br><br>
